@@ -6,14 +6,14 @@
     - 내용을 입력하고 생성. 
 5. workspace 폴더 내에서 "git Bash" 실행.
 6. 초기 설정 
-   : git config --list(내용확인)
-   : git config --global user.name "leedakyubg-rosa"
-   : git config --global user.email "damy619@naver.com"
+   * git config --list(내용확인)
+   * git config --global user.name "leedakyubg-rosa"
+   * git config --global user.email "damy619@naver.com"
    * Git 을 설치하고 나서 제일 먼저 해야하는 것은 "계정정보" 설정
    * Git은 commit할 때마다, 이 정보를 사용 
       (한번 커밋한 뒤, 정보변경 불가능)
 7. 초기화 
-  - git init
+   * git init
 8. 원격저장소 설정 
    * git remote add first_remote_repo https://github.com/.../first_repository.git
 
