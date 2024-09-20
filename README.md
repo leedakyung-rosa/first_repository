@@ -25,8 +25,9 @@
 2. 상태 확인 
    * git status 
 3. 저장소에 변경된 파일을 관리할 수 있도록 추가 
-   * git add .
-   * git add README.md
+   * 변경이 감지된 파일을 commit 할 수 있도록 작업 (Staged)
+   * (모든 파일을 추가 ) git add . 
+   * (특정 파일만 추가 ) git add README.md (경로를 포함 )
 4. Local Repository에 저장 
    *git commit -m "first_commit"
    *commit 이름은 해당 작업에서 추가/변경된 사항을 간략히 작성 
