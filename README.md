@@ -29,8 +29,8 @@
    * (모든 파일을 추가 ) git add . 
    * (특정 파일만 추가 ) git add README.md (경로를 포함 )
 4. Local Repository에 저장 
-   *git commit -m "first_commit"
-   *commit 이름은 해당 작업에서 추가/변경된 사항을 간략히 작성 
+   * git commit -m "first_commit"
+   * commit 이름은 해당 작업에서 추가/변경된 사항을 간략히 작성 
    * 다른 작업자가 알아볼 수 있도록 작성 및 되도록이면 영어로 작성하는 것을 추천 
 5. Remote Repository에 저장 
    * git push first_remote_repo master
