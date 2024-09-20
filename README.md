@@ -14,7 +14,10 @@
       (한번 커밋한 뒤, 정보변경 불가능)
 7. 초기화 
    * git init
+   * ".git" 폴더 생성 
+   * 저장소의 환경설정 정보, 히스토리 정보 등을 가지는 폴더 
 8. 원격저장소 설정 
+   * git remote add {RepositoryName} {RepositoryURL}
    * git remote add first_remote_repo https://github.com/.../first_repository.git
 
 # 파일 Push
